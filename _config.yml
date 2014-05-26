@@ -1,0 +1,14 @@
+markdown: redcarpet
+highlighter: null
+permalink: /:title
+#permalink: /:categories/:year/:month/:day/:title
+
+url: http://zembutsu.github.io/
+baseurl:  
+
+redcarpet:
+  extensions: [strikethrough, tables]
+
+sass:
+  sass_dir: public/css
+  style: :compressed
