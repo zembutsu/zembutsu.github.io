@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pocketstudio.net</title>
+    <link>http://zembutsu.github.io/</link>
+    <atom:link href="http://zembutsu.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    <description>This is my blog of technical topic.</description>
+    <language>en-us</language>
+    <pubDate>Mon, 26 May 2014 22:43:29 +0900</pubDate>
+    <lastBuildDate>Mon, 26 May 2014 22:43:29 +0900</lastBuildDate>
+
+    
+      <item>
+        <title>Close the world, open the next.</title>
+        <link>http://zembutsu.github.io//open-the-world</link>
+        <pubDate>Mon, 26 May 2014 00:00:00 +0900</pubDate>
+        <author>Masahito Zembutsu</author>
+        <description>&lt;h2&gt;Hello!&lt;/h2&gt;
+
+&lt;p&gt;I&amp;#39;m &lt;a href=&quot;http://twitter.com/zembutsu/&quot;&gt;@zembutsu&lt;/a&gt;. My work is a technical evangelist of a certain company.
+I worked as an operation engineer and sysadmin till then for ten several years.
+It is operation and monitoring, and my specialty wrestles for automation recently.&lt;/p&gt;
+
+&lt;p&gt;I intend to write that I am interested in technology in this blog.&lt;/p&gt;
+</description>
+      </item>
+    
+
+  </channel>
+</rss>
