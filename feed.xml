@@ -6,9 +6,32 @@
     <atom:link href="http://zembutsu.github.io//feed.xml" rel="self" type="application/rss+xml" />
     <description>This is my blog of technical topic.</description>
     <language>en-us</language>
-    <pubDate>Tue, 27 May 2014 22:36:24 +0900</pubDate>
-    <lastBuildDate>Tue, 27 May 2014 22:36:24 +0900</lastBuildDate>
+    <pubDate>Tue, 27 May 2014 23:11:52 +0900</pubDate>
+    <lastBuildDate>Tue, 27 May 2014 23:11:52 +0900</lastBuildDate>
 
+    
+      <item>
+        <title>How to setup ioDrive's SNMP</title>
+        <link>http://zembutsu.github.io//howto-setup-iodrive-snmp-healthstatus</link>
+        <pubDate>Tue, 27 May 2014 00:00:00 +0900</pubDate>
+        <author>Masahito Zembutsu</author>
+        <description>&lt;p&gt;If we want to know the health status of ioDrive/ioDrive2, how should I do it? Generally, we use &lt;code&gt;fio-status&lt;/code&gt; command. However, you must log in to a server to user &lt;code&gt;fio-status&lt;/code&gt; each time. &lt;code&gt;fio-status&lt;/code&gt; is incovenient for hurrying time and a periodical monitoring.&lt;/p&gt;
+
+&lt;p&gt;In such a case, I recommend to monitor health status of ioDrive using SNMP.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;rpm -ivh ./fio-snmp-agentx-1.x.x86_64.rpm&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;(I&amp;#39;m now writing...)&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;Original url is &lt;a href=&quot;http://pocketstudio.jp/log3/2013/08/01/howto_setup_iodrive_snmp_healthstatus/&quot;&gt;here&lt;/a&gt;. I wrote this article in 2013 and translated it into English. &lt;/p&gt;
+</description>
+      </item>
     
       <item>
         <title>Close the world, open the next.</title>
